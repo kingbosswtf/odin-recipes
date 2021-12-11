@@ -1,2 +1,2 @@
 # odin-recipes
-This is a lasagnga recipe website
+This is a food recipe website
